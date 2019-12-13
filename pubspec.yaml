@@ -1,0 +1,16 @@
+name: environment_controller
+description: A controller to helps handle and load differents environments in the build/run
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
